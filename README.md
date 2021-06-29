@@ -10,7 +10,7 @@ Sorry, only RU for now 😔
 Localozations | Status | Link
 --- | --- | ---
 RU | ✅ | [Link](https://www.notion.so/daniellotos/Phaser-js-f70de1dfae1944fe8a0452ac865b90f8)
-EN | ✅ | Link (https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-phaser-3-game)
+EN | ✅ | [Link](https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-phaser-3-game)
 
 
 ## Start dev-server
